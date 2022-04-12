@@ -7,7 +7,7 @@
 <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Akshat Tamrakar
+    Saif Hany
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
@@ -17,12 +17,6 @@
   <samp>
     <br><br>
     Full stack developer
-    <br><br>
-     & mobile developer...
-    <br><br>
-    Focusing on building beautiful
-    <br><br> 
-    & native applications...
   </samp>
 </p>
 
@@ -43,12 +37,9 @@
 
 <p align="left" >
 <img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/angular.svg"/>
  <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/>
-  <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/flutterio.svg"/>
   <br />
   <br />
-  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
 </p>
 <br/>
 <br/>
@@ -59,7 +50,6 @@
   <h3 align="right">FAVOURITE FRAMEWORKS</h3>
   <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
   <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
   <br />
   <br />
   <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
